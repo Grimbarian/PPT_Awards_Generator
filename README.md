@@ -11,11 +11,15 @@ This tool takes a simple CSV list of student nominations and turns them into a p
 FeaturesOne-Click Generation: Turns a CSV into a full PPTX in seconds.
 
 Customizable Content: Change the Award heading and Award SubText text.
+
 Intelligent Layout: Automatically scales font size for long names so they don't break the design.
+
 Image Export: Optional setting to save every slide as a individual PNG for social media or digital displays.
+
 Staff-Friendly: Compiled as a standalone .exe — no PowerShell knowledge required!
 
-How to Use
+How to Use:
+
 Prepare your Data: Save your nominations in Excel as a CSV (Comma Delimited) file.
 
 Ensure you have headers for "NomineeName" and "SubText". Some sample CSV's are included in the Samples folder.
