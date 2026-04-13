@@ -8,7 +8,7 @@ Automate your school, scout, or organisation awards with zero "Copy-Paste" fatig
 
 This tool takes a simple CSV list of student nominations and turns them into a professional PowerPoint presentation using your own custom backgrounds. Perfect for Behaviour Certificates, Sports Day, or End-of-Term assemblies.
 
-FeaturesOne-Click Generation: Turns a CSV into a full PPTX in seconds.
+Features One-Click Generation: Turns a CSV into a full PPTX in seconds.
 
 Customizable Content: Change the Award heading and Award SubText text.
 
