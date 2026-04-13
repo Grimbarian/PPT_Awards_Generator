@@ -13,19 +13,27 @@ FeaturesOne-Click Generation: Turns a CSV into a full PPTX in seconds.
 Customizable Content: Change the Award heading and Award SubText text.
 Intelligent Layout: Automatically scales font size for long names so they don't break the design.
 Image Export: Optional setting to save every slide as a individual PNG for social media or digital displays.
-Staff-Friendly: Compiled as a standalone .exe—no PowerShell knowledge required.
+Staff-Friendly: Compiled as a standalone .exe — no PowerShell knowledge required!
 
 How to Use
 Prepare your Data: Save your nominations in Excel as a CSV (Comma Delimited) file.
+
 Ensure you have headers for "NomineeName" and "SubText". Some sample CSV's are included in the Samples folder.
+
 Run the Tool: Double click the PPTAwardsGenerator.exe.
+
 Configure:Select your CSV file.
-Choose your background image (1920x1080).
+
+Choose your background image (Size should by 1920x1080 pixels).
+
 Type in your custom content.
+
 Hit Generate.
+
 Your PowerPoint will open as the tool builds your presentation automatically. When completed, Windows will open your save location folder.
 
-RequirementsWindows 10/11
+Requirements:
+Windows 10/11
 Microsoft PowerPoint (Installed locally)
 
 ☕ Support the Project: I built this tool to make life easier for teachers and staff. It is, and always will be, Free and Open Source. If this tool saved you a few hours of boring admin work and you’d like to say thanks, feel free to buy me a coffee!
