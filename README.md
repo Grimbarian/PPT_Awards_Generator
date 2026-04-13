@@ -1,6 +1,9 @@
 # PPT_Awards_Generator
 An automated CSV to PowerPoint generator which creates PPTX awards and individual certificates for schools, local organisations, or any other purpose.
 
+<img width="586" height="470" alt="image" src="https://github.com/user-attachments/assets/72b30564-5d00-4191-b13c-6d91d4121fdf" />
+<img width="1514" height="780" alt="Screenshot 2026-04-13 125514" src="https://github.com/user-attachments/assets/9746270a-76d3-4e1e-931f-04890594383c" />
+
 Automate your school, scout, or organisation awards with zero "Copy-Paste" fatigue.
 
 This tool takes a simple CSV list of student nominations and turns them into a professional PowerPoint presentation using your own custom backgrounds. Perfect for Behaviour Certificates, Sports Day, or End-of-Term assemblies.
